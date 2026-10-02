@@ -77,6 +77,6 @@ If you find our work helpful, please consider citing our paper:
       author={Wang, Haorui and Shojaee, Parshin and Meidani, Kazem and Sun, Kunyang and Hern{\'a}ndez-Lobato, Jos{\'e} Miguel and Head-Gordon, Teresa and He, Jiajun and Reddy, Chandan K and Zhang, Chao and Du, Yuanqi},
       booktitle={ICML},
       year={2026},
-      url={https://openreview.net/forum?id=awWiNvQwf3}
+      url={https://arxiv.org/html/2606.10587v1}
 }
 ```
