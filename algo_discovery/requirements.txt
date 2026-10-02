@@ -1,0 +1,6 @@
+# Python 3.10/3.11. The modified OpenEvolve package is included locally.
+numpy>=1.24,<3
+scipy>=1.10,<2
+openai>=1.68,<3
+PyYAML>=6,<7
+tqdm>=4.65,<5

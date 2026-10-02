@@ -1,0 +1,16 @@
+# Python 3.10/3.11. This RDKit wheel requires NumPy <2.
+PyTDC==0.4.1
+rdkit-pypi==2022.9.5
+# Molecular filters compatible with rdkit-pypi.
+rd_filters @ git+https://github.com/PatWalters/rd_filters.git@bd3d796e165fcbd9be43589994b78876680555cb
+numpy==1.26.4
+scipy==1.11.4
+scikit-learn==1.2.2
+pandas>=1.5,<3
+huggingface-hub>=0.20,<1
+openai>=1.68,<3
+PyYAML>=6,<7
+selfies>=2,<3
+tqdm>=4.65,<5
+networkx>=2.8,<4
+setuptools>=65,<81

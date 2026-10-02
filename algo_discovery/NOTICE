@@ -1,0 +1,8 @@
+This directory contains a modified version of OpenEvolve by codelion and
+contributors, https://github.com/codelion/openevolve, under Apache License 2.0.
+
+The EvoDiverse authors added temperature-dependent population selection,
+parallel-tempering swaps, adaptive swap scaling, and a circle-packing experiment
+with a Python runner that supports environment-based API configuration.
+
+The original Apache License 2.0 text is preserved.

@@ -1,0 +1,10 @@
+# Python 3.10/3.11. Includes the reader for a local Hugging Face download.
+numpy>=1.24,<3
+scipy>=1.10,<2
+scikit-learn>=1.2,<2
+sympy>=1.12,<2
+openai>=1.68,<3
+absl-py>=1.4,<3
+tensorboardX>=2.6,<3
+h5py>=3.8,<4
+pyarrow>=14,<25
